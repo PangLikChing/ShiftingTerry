@@ -1,0 +1,33 @@
+﻿<Properties StartupConfiguration="{A77DEB61-50BA-3D2B-BA85-CD07C2DB2C66}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Game Scene/GameManager.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Game Scene/Box7Collision.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Game Scene/StupidGuyCollision.cs" />
+      <File FileName="Assets/Scripts/Game Scene/StupidGuyMovement.cs" Line="87" Column="42" />
+      <File FileName="Assets/Scripts/Start Menu/StupidGuyMovementStartScene.cs" />
+      <File FileName="Assets/Scripts/Game Scene/GameManager.cs" Line="76" Column="9" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Demo" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scripts" expanded="True">
+                <Node name="Game Scene" expanded="True">
+                  <Node name="GameManager.cs" selected="True" />
+                </Node>
+                <Node name="Start Menu" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
